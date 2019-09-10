@@ -1,5 +1,5 @@
 {
-  "name": "gulp-template",
+  "name": "natours",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "gulp watch"
   },
-  "author": "Felix Armando Lopez",
+  "author": "Felix Lopez",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.7",
